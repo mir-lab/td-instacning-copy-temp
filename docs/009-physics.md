@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Examples
-nav_order: 1
+title: Physics
+nav_order: 9
 has_children: true
-permalink: /docs/examples
+permalink: /docs/009-physics
 ---
 
-# Examples
+# Physics
 
 All Examples:
 {: .fs-6 .fw-300 }

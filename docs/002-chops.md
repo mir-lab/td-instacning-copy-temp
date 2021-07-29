@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Interface Elements
+title: Techniques for Using CHOPs
 nav_order: 2
 has_children: true
-permalink: /docs/interface-elements
+permalink: /docs/002-chops
 ---
 
-# Interface Elements
+# Techniques for Using CHOPs
 
 All Examples:
 {: .fs-6 .fw-300 }

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Simple Instances and Scale
+title: Simple Instances with CHOPs
 nav_order: 1
 parent: Instancing Overview
 ---
