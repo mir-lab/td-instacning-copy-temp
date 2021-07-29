@@ -4,13 +4,15 @@ title: Simple Instances and Unique Scale
 nav_order: 4
 parent: Instancing Overview
 ---
-
 ## Instances at a Glance
-# Simple Instances and Unique Scale
+# Simple Instances and Unique Scale  
 
-[Load Example](?remoteTox=){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+*****
+
+[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_unique_scale.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 
 If we can assign scale to one instance, you might already be thinking that we should be able to provide a unique scale value to each instance. That is, in fact, the case. In this example we can see that in action.
+
 
 Open the network and notice that we use a [pattern CHOP](https://docs.derivative.ca/Pattern_CHOP) with three unique channels — 'sx', 'sy', and 'sz' — to provide scale information. For consistency, we use a simple expression to ensure that we have the same number of samples in our **pattern CHOP** as are in our [SOP to CHOP](https://docs.derivative.ca/SOP_to_CHOP). The Length parameter uses the following expression:
 

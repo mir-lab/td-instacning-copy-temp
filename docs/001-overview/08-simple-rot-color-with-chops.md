@@ -8,7 +8,7 @@ parent: Instancing Overview
 ## Instances at a Glance
 # Rotation and Color with CHOPs
 
-[Load Example](?remoteTox=){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_rot_color_chops.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 
 Unlike our previous example where we were rotating to a vector, we can also manually provide rotations for each instance. In this example we'll provide a unique rotation that's constantly increasing for each axis. You can, of course, only manipulate one axis, but this example looks at how you might change each. 
 
