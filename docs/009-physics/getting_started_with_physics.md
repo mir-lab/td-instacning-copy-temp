@@ -2,7 +2,7 @@
 layout: default
 title: Physics
 nav_order: 1
-parent: Using Point Files
+parent: Physics
 ---
 
 ## Category

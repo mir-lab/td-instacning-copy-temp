@@ -2,7 +2,7 @@
 layout: default
 title: Flex
 nav_order: 1
-parent: Using Point Files
+parent: Flex
 ---
 
 ## Category

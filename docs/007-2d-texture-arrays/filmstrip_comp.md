@@ -2,7 +2,7 @@
 layout: default
 title: 2D Textures
 nav_order: 1
-parent: Using Point Files
+parent: 2D Textures
 ---
 
 ## 2D Texture Arrays

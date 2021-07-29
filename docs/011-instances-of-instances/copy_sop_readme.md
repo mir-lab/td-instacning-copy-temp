@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Copy SOP
 nav_order: 1
 parent: Instances of Instances
 ---
