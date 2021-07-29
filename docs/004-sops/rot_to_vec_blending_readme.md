@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Rotate to Vector and the Blend SOP
+layout: default
+title: Using the Blend CHOP
+nav_order: 1
+parent: Techniques for Using SOPs
 ---
+
 
 ## Techniques Using SOPs
 # Rotate to Vector and the Blend SOP

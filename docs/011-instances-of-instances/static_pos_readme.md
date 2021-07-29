@@ -1,6 +1,8 @@
 ---
-layout: content-page
-title: Static Position Instances of Instances
+layout: default
+title: Flex
+nav_order: 1
+parent: Instances of Instances
 ---
 
 ## Instancing Instances

@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Instances from a Table with Scale
+layout: default
+title: Using the Blend CHOP
+nav_order: 1
+parent: Techniques for Using DATs
 ---
+
 ## Using DATs For Instancing
 # Instances from a Table with Scale
 

@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Loading Textures from Video Files
+layout: default
+title: 2D Textures
+nav_order: 1
+parent: Using Point Files
 ---
+
 ## 2D Texture Arrays
 # Loading Textures from Video Files
 

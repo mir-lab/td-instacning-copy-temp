@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: 2D Texture Arrays and Instancing
+layout: default
+title: Flex
+nav_order: 1
+parent:  GLSL Instancing
 ---
+
 ## GLSL and Instances
 # 2D Texture Arrays and Instancing
 

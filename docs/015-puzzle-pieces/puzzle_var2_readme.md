@@ -1,6 +1,8 @@
 ---
-layout: content-page
-title: Variation 2 | 2D Texture Array
+layout: default
+title: Flex
+nav_order: 1
+parent: Puzzle Pieces
 ---
 
 ## Puzzle Pieces

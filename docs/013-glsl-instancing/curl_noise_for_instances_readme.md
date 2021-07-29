@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Curl Noise Functions for Instances
+layout: default
+title: Flex
+nav_order: 1
+parent:  GLSL Instancing
 ---
+
 ## GLSL and Instances
 # Curl Noise Functions for Instances
 

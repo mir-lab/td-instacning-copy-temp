@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Image Carousel Using a Line
+layout: default
+title: Using the Blend CHOP
+nav_order: 1
+parent: Techniques for Using SOPs
 ---
+
 
 ## Techniques Using SOPs
 # Image Carousel Using a Line

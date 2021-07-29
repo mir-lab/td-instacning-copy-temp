@@ -1,6 +1,8 @@
 ---
-layout: content-page
-title: Copy SOP
+layout: default
+title: Flex
+nav_order: 1
+parent: Instances of Instances
 ---
 
 ## Instancing Instances

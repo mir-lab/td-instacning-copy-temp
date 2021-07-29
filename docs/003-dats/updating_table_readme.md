@@ -1,6 +1,8 @@
 ---
-layout: content-page
-title: An Updating Table
+layout: default
+title: Using the Blend CHOP
+nav_order: 1
+parent: Techniques for Using DATs
 ---
 
 ## Using DATs For Instancing

@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Creating a Filmstrip Illusion
+layout: default
+title: Flex
+nav_order: 1
+parent: Complex Rotation
 ---
+
 ## Complex rotation
 # Object CHOP | Calculating Bearing
 

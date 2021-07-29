@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Changing Instance Position with GLSL
+layout: default
+title: Flex
+nav_order: 1
+parent:  GLSL Instancing
 ---
+
 ## GLSL and Instances
 # Changing Instance Position with GLSL
 

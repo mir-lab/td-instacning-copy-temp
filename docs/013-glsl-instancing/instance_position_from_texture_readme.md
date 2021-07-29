@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Textures to Displace Instances
+layout: default
+title: Flex
+nav_order: 1
+parent:  GLSL Instancing
 ---
+
 ## GLSL and Instances
 # Textures to Displace Instances
 

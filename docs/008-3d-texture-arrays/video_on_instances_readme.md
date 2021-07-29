@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Creating a Filmstrip Illusion
+layout: default
+title: 3D Textures
+nav_order: 1
+parent: Using Point Files
 ---
+
 ## 3D Texture Arrays
 # Playing Video on Instances
 

@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Color and Scale from Texture
+layout: default
+title: Flex
+nav_order: 1
+parent:  GLSL Instancing
 ---
+
 ## GLSL and Instances
 # Color and Scale from Texture
 

@@ -1,6 +1,8 @@
 ---
-layout: content-page
-title: Variation 3 | UV Offset
+layout: default
+title: Flex
+nav_order: 1
+parent: Puzzle Pieces
 ---
 
 ## Puzzle Pieces

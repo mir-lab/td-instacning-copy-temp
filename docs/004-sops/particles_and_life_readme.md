@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Particle Life as Scale
+layout: default
+title: Using the Blend CHOP
+nav_order: 1
+parent: Techniques for Using SOPs
 ---
+
 
 ## Techniques Using SOPs
 # Particle Life as Scale

@@ -1,6 +1,8 @@
 ---
-layout: content-page
-title: Step 3
+layout: default
+title: Flex
+nav_order: 1
+parent: Pixel Mapping Geometry
 ---
 
 ## Pixel Mapping Geometry

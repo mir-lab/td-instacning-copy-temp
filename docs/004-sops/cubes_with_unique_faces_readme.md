@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Cube Instances with Unique Faces
+layout: default
+title: Using the Blend CHOP
+nav_order: 1
+parent: Techniques for Using SOPs
 ---
+
 ## Techniques Using SOPs
 # Cube Instances with Unique Faces
 

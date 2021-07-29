@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Random Moving Position
+layout: default
+title: Flex
+nav_order: 1
+parent: Instances of Instances
 ---
+
 
 ## Instancing Instances
 # Random Moving Position

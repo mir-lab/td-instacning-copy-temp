@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: Carousel Illusions with a Circle SOP
+layout: default
+title: Using the Blend CHOP
+nav_order: 1
+parent: Techniques for Using SOPs
 ---
+
 
 ## Techniques Using SOPs
 # Carousel Illusions with a Circle SOP

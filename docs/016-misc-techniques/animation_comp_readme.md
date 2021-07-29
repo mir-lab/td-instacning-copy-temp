@@ -1,7 +1,10 @@
 ---
-layout: content-page
-title: The Animation COMP
+layout: default
+title: Flex
+nav_order: 1
+parent: Misc Techniques
 ---
+
 ## Miscellaneous Techniques
 # The Animation COMP
 
