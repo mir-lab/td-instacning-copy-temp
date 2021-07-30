@@ -8,6 +8,12 @@ parent: Instances of Instances
 ## Instancing Instances
 # Static Position Instances of Instances
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 We can, however, also do all of these calculations in CHOPs rather than using the ** copy SOP**. In this example our blue boxes, and are red boxes are all instances — a more efficient approach, but one that takes a little more set-up to get right:
 
 ![](https://github.com/mir-lab/td-instacning-copy-temp/blob/master/assets/images/instances-of-instnaces/static-pos/static-pos-01.jpg?raw=true)

@@ -8,6 +8,12 @@ parent: 2D Textures
 ## 2D Texture Arrays
 # Loading Textures from Video Files
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 *Note: this example may appear blank if you are using MacOS or have an older GPU.*  
 
 Another interesting approach for working with instances is thinking about how to include textures. This approach uses a 2D array that's loaded into memory with a [texture3D TOP](https://docs.derivative.ca/Texture_3D_TOP). This example uses [pre-filling](https://docs.derivative.ca/Pre-Filling) to fill our **texture3D TOP** with all of our images. If you haven't used pre-filling before it's worth taking a closer look at that article to understand the mechanics.

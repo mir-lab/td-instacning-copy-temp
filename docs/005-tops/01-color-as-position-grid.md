@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Color as Position | Grid
 nav_order: 1
-parent: Techniques for Using CHOPs
+parent: Techniques for Using TOPs
 ---
 
-## Techniques for Using CHOPs
-# Example Name Using the Blend CHOP
+## Color as Position | Grid
+# Techniques for Using TOPs
 
 *****
 

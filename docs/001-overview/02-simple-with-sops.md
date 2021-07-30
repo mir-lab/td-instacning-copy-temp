@@ -10,7 +10,9 @@ parent: Instancing Overview
 
 *****
 
-[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_instances_with_sops.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_instances_with_sops.tox){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 While working with CHOPs was previously one of the few ways to work with instances, changes in TouchDesigner have made room for creating instances more intuitively and with fewer intermediary steps. In this example we can see how we might create instances using only Surface Operators without converting them.
 

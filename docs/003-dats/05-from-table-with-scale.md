@@ -8,6 +8,12 @@ parent: Techniques for Using DATs
 ## Using DATs For Instancing
 # Instances from a Table with Scale
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 Understanding our **table DAT** as a set of columns for data, where each row is an instance, we can expand our set of examples to also include use of scale. In this example we add three more columns, 'sx', 'sy', and 'sz'. While we only change the 'sy' value, you can experiment with changing other values in the table to see how that would impact our instances.
 
 ---

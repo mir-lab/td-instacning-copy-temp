@@ -10,7 +10,9 @@ parent: Instancing Overview
 
 *****
 
-[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_instances_with_chops.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_instances_with_chops.tox){: .btn .btn-load-example .mr-2}
+[TD Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 We use instances when working in 3D for a number of reasons. Efficiency, elegance, simplicity, reusability, the the list goes on and on. When working in TouchDesigner we often want to use instances so we can produce multiple copies of the same geometry. Under the hood this is a much more efficient approach to rendering, and allows us to create the illusion of thousands of an object, when we are in fact only making virtual copies of that geometry. If you've played with TouchDesigner much, this has a similar behavior to the [Copy SOP](https://docs.derivative.ca/Copy_SOP) — the key difference here being that the [Copy SOP](https://docs.derivative.ca/Copy_SOP) produces unique pieces of geometry that are computed on the CPU, while instances are handled by the GPU. The effect here is that we can work with many more instances of that geometry, and accomplish illusions that would otherwise be very difficult to achieve if we were only working in a CPU bound context.
 

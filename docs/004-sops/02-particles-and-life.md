@@ -1,13 +1,18 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Particle Life as Scale
 nav_order: 1
 parent: Techniques for Using SOPs
 ---
 
-
 ## Techniques Using SOPs
 # Particle Life as Scale
+
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 The **particle SOP** has a number of interesting uses, and one of them is for driving instancing-based systems. Here we get another example of instances based on the position of our particles. This is often helpful as particles have a number of forces they react to. Before physics was included in TouchDesigner, particles could be set to die or bounce based on collision with other SOPs.
 

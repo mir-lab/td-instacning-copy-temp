@@ -8,6 +8,12 @@ parent:  GLSL Instancing
 ## GLSL and Instances
 # Color and Scale from Texture
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 Similar to the techniques used in our previous examples, we can also use textures to manipulate our instances in terms of both color and size. This allows us to quickly map images onto our instances. In this example, the scale of our instance is determined by the sampled pixel's alpha, and the color of the instance is derived by the color of the pixel.
 
 Here we again use our helper fucntion `CoordsFromTex()`. This function will return an ivec2 with a set of x and y coordinates that we'll use to sample the texture. Here's our helper function:

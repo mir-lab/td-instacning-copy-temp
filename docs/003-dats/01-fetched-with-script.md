@@ -8,6 +8,12 @@ parent: Techniques for Using DATs
 ## Using DATs For Instancing
 # Fetched from Storage with a Script CHOP
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 This example follows from the previous with a variation in considering how you might approach smooth animation as data changes over time. Operators like the **filter CHOP** or **lag CHOP** are good candidates for creating smooth motion in these circumstances. Both of those operators, however, require that the data is already formatted in CHOPs. To avoid updating a table, and then converting that data to CHOPs, this example instead uses a **script CHOP** to pull the contents of storage directly into multi-sample CHOP format. The motivation for this style of approach again stems from the original discussion condition that the data would likely be formatted / ingested as a JOSN blob. 
 
 This example uses the same principles of data updating as we've previously seen. The primary difference in this example is the use of a **script CHOP** to move data from storage directly into CHOP format. A closer look at the **script CHOP's** callback reveals what's happening:

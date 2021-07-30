@@ -8,7 +8,11 @@ parent: Instancing Overview
 ## Instances at a Glance
 # Scale and Rotate to Vector
 
-[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_scale_rotate_to_vector.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+*****
+
+[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_scale_rotate_to_vector.tox){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-load-example .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 In addition to scale, we often want to rotate our instances. We can do this manually in a similar fashion to our other approaches — where we pack the relevant information into CHOPs which are then targeted on our **geometry COMP**. 
 

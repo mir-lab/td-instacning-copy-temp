@@ -8,6 +8,12 @@ parent: Pixel Mapping Geometry
 ## Pixel Mapping Geometry
 # Step 1
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 Core Concepts
 
 * Instancing geometry

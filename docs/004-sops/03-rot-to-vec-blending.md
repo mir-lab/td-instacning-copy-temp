@@ -1,13 +1,18 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Rotate to Vector and the Blend SOP
 nav_order: 1
 parent: Techniques for Using SOPs
 ---
 
-
 ## Techniques Using SOPs
 # Rotate to Vector and the Blend SOP
+
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 Rather than calculating bearing manually, you may want to take advantage of another feature of instancing — Rotate to Vector. Another way we can think about this type of vector is to use the normal's for a given point.
 In this example, we use the normals from our SOPs to describe the rotation of our instances. The normals from our Surface Operators can be retrieved with a **sopTo CHOP**.

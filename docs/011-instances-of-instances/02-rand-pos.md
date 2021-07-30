@@ -5,9 +5,14 @@ nav_order: 1
 parent: Instances of Instances
 ---
 
-
 ## Instancing Instances
 # Random Moving Position
+
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 The previous technique is especially powerful when working with moving and dynamic objects. **Copy SOPs** can be very slow, and having ways to do this all with CHOP math helps you find highly efficient approaches for solving these kinds of problems. In this example you'll see that we use the same techniques for flattening our reference positions, using a **math CHOP** to calculate the new positions, then shuffling our data so it's back in order for instancing. 
 

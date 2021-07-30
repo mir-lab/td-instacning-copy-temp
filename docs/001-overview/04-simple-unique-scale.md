@@ -9,7 +9,9 @@ parent: Instancing Overview
 
 *****
 
-[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_unique_scale.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_unique_scale.tox){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-blue}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 If we can assign scale to one instance, you might already be thinking that we should be able to provide a unique scale value to each instance. That is, in fact, the case. In this example we can see that in action.
 

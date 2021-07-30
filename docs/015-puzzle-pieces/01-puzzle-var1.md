@@ -8,6 +8,12 @@ parent: Puzzle Pieces
 ## Puzzle Pieces
 # Variation 1 | Texture Instancing
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 *Note: this example may appear blank if you are using MacOS or have an older GPU.*
 
 There are lots of ways that we can approach this kind of puzzle piece animation and display. This example looks at the very first way to understand this problem. This is not the most efficient approach, but it's one way that you could think about solving the problem.

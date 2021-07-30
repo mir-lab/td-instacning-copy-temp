@@ -8,6 +8,12 @@ parent:  GLSL Instancing
 ## GLSL and Instances
 # Changing Instance Position with GLSL
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 While we can do a lot of instance manipulation with operators, it's also possible to manipulate our instance positions directly through a custom GLSL Material. In this example we'll take a look at how we might do that with just a few simple lines of code. While we can certainly start with the **GLSL MAT**, I find it's usually easier to start by setting up a few pieces in our network, then outputting a shader from a **phong MAT** to use as a starting point.
 
 Here we started by first setting up our instances as usual with a **line SOP**, and creating a 2D Texture array to use for unique textures. These help us see which instance we're working with. When you have that working with a **phong MAT**, you can then output the shader:

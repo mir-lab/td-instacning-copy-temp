@@ -116,3 +116,15 @@
 .btn-green {
   @include btn-color($white, $green-100);
 }
+
+.btn-load-example {
+  @include btn-color($white, $green-100);
+}
+
+.btn-td-network {
+  @include btn-color($white, $grey-dk-000);
+}
+
+.btn-load-web {
+  @include btn-color($white, $blue-100);
+}

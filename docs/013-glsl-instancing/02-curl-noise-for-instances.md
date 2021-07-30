@@ -8,8 +8,13 @@ parent:  GLSL Instancing
 ## GLSL and Instances
 # Curl Noise Functions for Instances
 
-While Perlin and Simplex noise are great functions, Curl noise is an excellent contender for organic looking motion. In this example we'll leverage the ability to utilize `#include` statements in TouchDesigner, along with an adapted outside noise function from [Cabbibo]("https://github.com/cabbibo/glsl-curl-noise/blob/master/curl.glsl) on Github.
+*****
 
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
+While Perlin and Simplex noise are great functions, Curl noise is an excellent contender for organic looking motion. In this example we'll leverage the ability to utilize `#include` statements in TouchDesigner, along with an adapted outside noise function from [Cabbibo]("https://github.com/cabbibo/glsl-curl-noise/blob/master/curl.glsl) on Github.
 
 First off — an `#include` statement allows us to put some of our GLSL functions in another part of the TouchDesigner network, and then point to that code for use in another shader. In Python we might use the `import` keyword, and with GLSL we can instead use `#include`. We can see this in action in our vertex shader on line 11:
 

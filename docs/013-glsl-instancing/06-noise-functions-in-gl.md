@@ -8,6 +8,12 @@ parent:  GLSL Instancing
 ## GLSL and Instances
 # Noise Functions for Instances
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 Here we'll look at the use of simplex noise to change the scale of our instances. In many TouchDesigner tutorials about using noise in custom materials, you'll often see a custom noise function. In fact, in another example we'll use our own noise function. You can also use two built-in noise functions provided by TouchDesigner: `TDSimplexNoise()` or `TDPerlinNoise()`. These functions can help save a significant amount of time when working with noise and come in several varieties. Both of these helper functions come in 2D, 3D and 4D. If you have a chance you should read more about the built-in noise functions on the [Write a GLSL Material](https://docs.derivative.ca/Write_a_GLSL_Material#Perlin_and_Simplex_noise_functions) page in the wiki.
 
 In this example, our magic happens on lines 21 through 24:

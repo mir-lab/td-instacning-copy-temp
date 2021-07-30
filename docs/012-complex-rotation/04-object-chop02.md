@@ -8,6 +8,12 @@ parent: Complex Rotation
 ## Complex rotation
 # Object CHOP | Calculating Bearing with Feedback
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 Moving a step beyond simply pointing to one reference position, this example looks at how we might be able to calculate a bearing value for each instance individually. Here we use a **feedback CHOP** to feed our **object CHOP** with a previous value — from our current position and our previous position we can derive a heading that represents the a vector between those two points. In this example we derive a bearing from that information. 
 
 ![](../../assets/img/complex-rotation/object-chop-and-feedback/object-and-feedback-01.jpg)

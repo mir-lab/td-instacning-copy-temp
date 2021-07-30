@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Color as Position | Point Files
 nav_order: 1
-parent: Techniques for Using CHOPs
+parent: Using Point Files
 ---
 
-## Techniques for Using CHOPs
-# Example Name Using the Blend CHOP
+## sing Point Files
+# Color as Position | Point Files
 
 *****
 

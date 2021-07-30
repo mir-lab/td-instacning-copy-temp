@@ -1,12 +1,18 @@
 ---
 layout: default
-title: title: Step 2
+title: Step 2
 nav_order: 1
 parent: Pixel Mapping Geometry
 ---
 
 ## Pixel Mapping Geometry
 # Step 2
+
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 Core Concepts
 

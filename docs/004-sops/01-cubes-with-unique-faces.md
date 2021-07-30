@@ -1,12 +1,18 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Cube Instances with Unique Faces
 nav_order: 1
 parent: Techniques for Using SOPs
 ---
 
 ## Techniques Using SOPs
 # Cube Instances with Unique Faces
+
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 *Note: this example may appear blank if you are using MacOS or have an older GPU.*
 

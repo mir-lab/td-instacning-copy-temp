@@ -1,13 +1,18 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Carousel Illusions with a Circle SOP
 nav_order: 1
 parent: Techniques for Using SOPs
 ---
 
-
 ## Techniques Using SOPs
 # Carousel Illusions with a Circle SOP
+
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 *Note: this example may appear blank if you are using MacOS or have an older GPU.*
 

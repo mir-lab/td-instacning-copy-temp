@@ -10,7 +10,9 @@ parent: Instancing Overview
 
 *****
 
-[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_scale.tox){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
+[Load Example](?remoteTox=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/001-overview/container_simple_scale.tox){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 In addition to position we can also change the scale of our instances. Here we see that unlike our original examples, we have now applied a scale operation to our instances. If you open the network you'll see a **constant CHOP** is merged with our position information. Here we provide only a single scale value, and it modifies all instances in the same manner. 
 

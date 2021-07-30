@@ -8,7 +8,11 @@ parent: Physics
 ## Physics
 # Getting Started with Physics
 
+*****
 
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
 
 ---
 

@@ -8,6 +8,12 @@ parent: Techniques for Using DATs
 ## Using DATs For Instancing
 # An Updating Table
 
+*****
+
+[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
+[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
+[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+
 The original forum conversation for this set of examples exported the possibility of working with a data set that was delivered as a JSON blob. For this reason, the obvious target for working with the data seemed to be DATs. That data set was expected to change over time, and part of the conversation was aimed at understanding how to approach that challenge.
 
 In this example we simulate the presence of a changing JSON blob with a small random function below. Here we do a few small operations, we first generate a new random set of scale values that are stored in a JSON blob, which we then loop through and update in our table. A central question for this kind of approach would be how efficient / inefficient it might be to use DATs. DATs are generally the least efficient approach for working with instances, so this kind of simulation allows us begin to explore potential challenges before working with our actual data set. 
