@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Object CHOP | Calculating Bearing with Feedback
 nav_order: 1
 parent: Complex Rotation
 ---

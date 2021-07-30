@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2D Textures
+title: Loading Textures from Video Files
 nav_order: 1
 parent: 2D Textures
 ---

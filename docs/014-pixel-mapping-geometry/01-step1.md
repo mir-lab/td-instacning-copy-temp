@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Flex
+title: Step 1
 nav_order: 1
 parent: Pixel Mapping Geometry
 ---
 
 ## Pixel Mapping Geometry
-# Step 3
+# Step 1
 
 Core Concepts
 
-* Spatial representations of time and images
-* Instanced geometry over time
-* Experiments in understanding depth
+* Instancing geometry
+* Transferring data between operator types
 * Real time rendering
 
 

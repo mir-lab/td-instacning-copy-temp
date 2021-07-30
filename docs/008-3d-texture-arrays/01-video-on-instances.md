@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D Textures
+title: Playing Video on Instances
 nav_order: 1
 parent: 3D Textures
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2D Textures
+title: Creating a Filmstrip Illusion
 nav_order: 1
 parent: 2D Textures
 ---

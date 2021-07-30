@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Changing Instance Position with GLSL
 nav_order: 1
 parent:  GLSL Instancing
 ---

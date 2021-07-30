@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Flex
+title: Getting Started with Flex
 nav_order: 1
 parent: Flex
 ---
 
-## Category
-# Example Name
+## Flex
+# Getting Started with Flex
 
 
 

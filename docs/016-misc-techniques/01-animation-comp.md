@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: The Animation COMP
 nav_order: 1
 parent: Misc Techniques
 ---

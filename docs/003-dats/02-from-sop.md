@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Using a SOP and Point Attributes
 nav_order: 1
 parent: Techniques for Using DATs
 ---

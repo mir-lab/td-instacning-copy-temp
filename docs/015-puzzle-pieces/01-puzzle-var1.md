@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Variation 1 | Texture Instancing
 nav_order: 1
 parent: Puzzle Pieces
 ---

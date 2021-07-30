@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Manual Rotation Calculation
 nav_order: 1
 parent: Complex Rotation
 ---

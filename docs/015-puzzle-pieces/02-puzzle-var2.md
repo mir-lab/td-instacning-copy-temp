@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Variation 2 | 2D Texture Array
 nav_order: 1
 parent: Puzzle Pieces
 ---

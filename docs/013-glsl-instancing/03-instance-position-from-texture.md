@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Textures to Displace Instances
 nav_order: 1
 parent:  GLSL Instancing
 ---

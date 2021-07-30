@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Curl Noise Functions for Instances
 nav_order: 1
 parent:  GLSL Instancing
 ---

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Physics
+title: Getting Started with Physics
 nav_order: 1
 parent: Physics
 ---
 
-## Category
-# Example Name
+## Physics
+# Getting Started with Physics
 
 
 

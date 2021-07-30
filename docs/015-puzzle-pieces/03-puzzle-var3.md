@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Variation 3 | UV Offset
 nav_order: 1
 parent: Puzzle Pieces
 ---

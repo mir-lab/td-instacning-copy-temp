@@ -5,8 +5,8 @@ nav_order: 5
 parent: Techniques for Using CHOPs
 ---
 
-## Category
-# Example Name
+## Techniques for Using CHOPs
+# Using the Trail CHOP
 
 [Load Example](?remoteTox=){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: 2D Texture Arrays and Instancing
 nav_order: 1
 parent:  GLSL Instancing
 ---

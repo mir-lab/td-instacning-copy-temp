@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: Color and Scale from Texture
 nav_order: 1
 parent:  GLSL Instancing
 ---

@@ -5,8 +5,8 @@ nav_order: 1
 parent: Techniques for Using CHOPs
 ---
 
-## Category
-# Example Name
+## Techniques for Using CHOPs
+# Example Name Using the Blend CHOP
 
 [Load Example](?remoteTox=){: .btn .btn-green} [Open Network](?openNetwork=True){: .btn .btn-blue}
 

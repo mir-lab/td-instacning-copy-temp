@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Flex
+title: title: Step 4
 nav_order: 1
 parent: Pixel Mapping Geometry
 ---

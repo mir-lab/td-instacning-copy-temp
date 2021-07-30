@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Using the Blend CHOP
+title: Data Fetched with a Script CHOP
 nav_order: 1
 parent: Techniques for Using DATs
 ---
