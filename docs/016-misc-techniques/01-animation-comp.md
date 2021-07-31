@@ -10,9 +10,14 @@ parent: Misc Techniques
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[TD Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
+
+
+[Web](?actionable=True&Action=updateRemoteTox&tox=somelonulr)
+
+
 
 While instancing is often interesting and exciting to do with generative tools, it can also be helpful to be able to carefully choreograph the movement of our instances. In fact, we can do this with an <b>animation COMP</b>. Here we start by creating animation channels with the <b>animation COMP</b> and then shuffle that data before finally connecting it with our color information.
 
