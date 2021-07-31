@@ -10,9 +10,9 @@ parent: Instances of Instances
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 A typical approach to instancing uses a piece of geometry to describe the positions of our instances — this is great, but we sometimes want more complex arrangements of instances. In tools like C4D, it's not uncommon to have clones of clones — but in TouchDesigner instancing on the GPU doesn't work exactly like that. Instead we need to do some additional set-up work to make this possible. For static arrangements, [the copy SOP](https://docs.derivative.ca/Copy_SOP) can be a great helper. Here the first input of the **copy SOP** is the shape to be copied, and the second input is the points where it will be copied.
 

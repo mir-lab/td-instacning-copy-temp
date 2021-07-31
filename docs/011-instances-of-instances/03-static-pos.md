@@ -10,9 +10,9 @@ parent: Instances of Instances
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 We can, however, also do all of these calculations in CHOPs rather than using the ** copy SOP**. In this example our blue boxes, and are red boxes are all instances — a more efficient approach, but one that takes a little more set-up to get right:
 

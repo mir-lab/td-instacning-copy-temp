@@ -10,9 +10,9 @@ parent: Techniques for Using DATs
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 Similar to our previous example this explores the use of updating scale values — only rather than directly updating a table, which can be computationally expensive — this instead updates a dictionary in storage. Values in storage are treated as native data types, while cell contents are strings which then need to be correctly type cast before instancing. This process is invisible to the user, but adds to the computational overhead involved in working with DATs. This instead uses an expression in a **point SOP** to retrieve a value from storage.
 

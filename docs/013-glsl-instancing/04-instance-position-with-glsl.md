@@ -10,9 +10,9 @@ parent:  GLSL Instancing
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 While we can do a lot of instance manipulation with operators, it's also possible to manipulate our instance positions directly through a custom GLSL Material. In this example we'll take a look at how we might do that with just a few simple lines of code. While we can certainly start with the **GLSL MAT**, I find it's usually easier to start by setting up a few pieces in our network, then outputting a shader from a **phong MAT** to use as a starting point.
 

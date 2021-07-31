@@ -10,9 +10,9 @@ parent:  GLSL Instancing
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 Similar to the techniques used in our previous examples, we can also use textures to manipulate our instances in terms of both color and size. This allows us to quickly map images onto our instances. In this example, the scale of our instance is determined by the sampled pixel's alpha, and the color of the instance is derived by the color of the pixel.
 

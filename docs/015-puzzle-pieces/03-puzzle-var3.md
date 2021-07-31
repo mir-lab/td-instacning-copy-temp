@@ -10,9 +10,9 @@ parent: Puzzle Pieces
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 Our final example of this puzzle piece challenge looks at how to use the UV offset parameters for instancing. Here rather than actually slicing up our image, we instead provide a set of offset coordinates for where to sample our texture from. This kind of slicing is highly efficient, but difficult to "read" visually when looking at TouchDesigner. In order to understand what's really happing in this example it's important to have a handle on the relationship between texture coordinates and geometry.
 

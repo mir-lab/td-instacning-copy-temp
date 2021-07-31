@@ -10,9 +10,9 @@ parent:  GLSL Instancing
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 While Perlin and Simplex noise are great functions, Curl noise is an excellent contender for organic looking motion. In this example we'll leverage the ability to utilize `#include` statements in TouchDesigner, along with an adapted outside noise function from [Cabbibo]("https://github.com/cabbibo/glsl-curl-noise/blob/master/curl.glsl) on Github.
 

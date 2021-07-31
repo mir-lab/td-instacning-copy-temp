@@ -10,9 +10,9 @@ parent: Techniques for Using SOPs
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 The **particle SOP** has a number of interesting uses, and one of them is for driving instancing-based systems. Here we get another example of instances based on the position of our particles. This is often helpful as particles have a number of forces they react to. Before physics was included in TouchDesigner, particles could be set to die or bounce based on collision with other SOPs.
 

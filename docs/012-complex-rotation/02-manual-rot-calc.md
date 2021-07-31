@@ -10,9 +10,9 @@ parent: Complex Rotation
 
 *****
 
-[Load Example](?remoteTox=){: .btn .btn-load-example .mr-2}
-[Open Network](?openNetwork=True){: .btn .btn-td-network .mr-2}
-[Web](?openInBrowser=True){: .btn .btn-load-web .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
+[Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
 An example made back when I hardly knew what I was doing — the principle of this exercise was seemingly simple. It started with a question about whether each instance could have a unique look-at style rotation. This example explores just that question. Here there are six arrows pointing towards a coresponding sphere whose movement is random. A line acts as ray that passes from the tip of the arrow through the sphere to visually debug the scene and ensure that our rotation is working correctly.
 
