@@ -20,6 +20,8 @@ Similar to the previous approach, we'll set up our geometry instances to have po
 
 Next we create a **noise TOP** whose x resolution is equal to the number of points in our reference SOP. We can do this with a simple expression like `op( 'null1' ).numPoints` - where `null1` is a null attached to our SOP. Here we've adjusted the **noise TOP** so that there are many distinct colors so the effect is easier to see. In this example we then convert the TOP to a CHOP, and pack the color information in with the rest of our instancing data. On the **geometry COMPs** `Instance 2` page we can assign the r, g, b, and a channels to be the color information for our instances.
 
+[Noise as Color](?actionable=1&action=update_td_pars&Useramp=0){: .btn .btn-td-network .mr-2}[Ramp Color](?actionable=1&action=update_td_pars&Useramp=1){: .btn .btn-td-network .mr-2}
+
 ---
 
 #### Tested in TouchDesigner099 2020.23680 
