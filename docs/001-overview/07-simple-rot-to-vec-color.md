@@ -20,7 +20,8 @@ Similar to the previous approach, we'll set up our geometry instances to have po
 
 Next we create a **noise TOP** whose x resolution is equal to the number of points in our reference SOP. We can do this with a simple expression like `op( 'null1' ).numPoints` - where `null1` is a null attached to our SOP. Here we've adjusted the **noise TOP** so that there are many distinct colors so the effect is easier to see. In this example we then convert the TOP to a CHOP, and pack the color information in with the rest of our instancing data. On the **geometry COMPs** `Instance 2` page we can assign the r, g, b, and a channels to be the color information for our instances.
 
-By using the buttons below, you can see how a noise TOP maps onto the instances, or how a Ramp TOP maps onto the same instances.
+By using the buttons below, you can see how a noise TOP maps onto the instances, or how a Ramp TOP maps onto the same instances.  
+
 [Use Noise](?actionable=1&action=update_td_pars&Useramp=0){: .btn .btn-purple .mr-2}[Use Ramp](?actionable=1&action=update_td_pars&Useramp=1){: .btn .btn-purple .mr-2}
 
 ---
