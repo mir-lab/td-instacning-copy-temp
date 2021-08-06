@@ -10,7 +10,7 @@ parent: Using Point Files
 
 *****
 
-[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/006-point-files/container_pointfile_top1.tox){: .btn .btn-load-example .mr-2}
 [Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
 [Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 

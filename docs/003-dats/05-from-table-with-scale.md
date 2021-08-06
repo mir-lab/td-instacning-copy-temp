@@ -10,7 +10,7 @@ parent: Techniques for Using DATs
 
 *****
 
-[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/003-using-dats/container_from_table_scale.tox){: .btn .btn-load-example .mr-2}
 [Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
 [Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
