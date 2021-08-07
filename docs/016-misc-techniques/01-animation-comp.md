@@ -10,7 +10,7 @@ parent: Misc Techniques
 
 *****
 
-[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=https://github.com/mir-lab/touchdesigner-instancing-examples-code/blob/main/tox/016-misc-techniques/container_animation_comp.tox){: .btn .btn-load-example .mr-2}
 [Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
 [Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 

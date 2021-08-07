@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Static Position Instances of Instances
-nav_order: 1
+nav_order: 2
 parent: Instances of Instances
 ---
 
@@ -10,7 +10,7 @@ parent: Instances of Instances
 
 *****
 
-[Load Example](?actionable=1&action=load_tox&remotePath=){: .btn .btn-load-example .mr-2}
+[Load Example](?actionable=1&action=load_tox&remotePath=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/011-instances-of-instances/container_static_position.tox){: .btn .btn-load-example .mr-2}
 [Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
 [Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
 
