@@ -13,6 +13,7 @@ parent: 3D Textures
 [Load Example](?actionable=1&action=load_tox&remotePath=https://github.com/mir-lab/touchdesigner-instancing-examples-code/raw/main/tox/008-3d-texture-array/container_playing_video_on_instances.tox){: .btn .btn-load-example .mr-2}
 [Open Network](?actionable=1&action=open_floating_network){: .btn .btn-td-network .mr-2}
 [Web](?actionable=1&action=open_in_browser){: .btn .btn-load-web .mr-2}
+
 3D Textures have some cool properties — namely that a 3D texture, unlike a 2D array, can be interpolated. In other words, you can blend between slices in the stack of images. This allow us to create effects like playing back video with frames that are all stored in memory. In this network we first pre-fill a **texture3D TOP** configured as a 3D texture.
 
 We then set up our instances based on a grid. Next we'll need to provide a normalized value (from 0-1) to scrub through the frames of our video. In this case we use a **pattern CHOP**. Here we've set up our **pattern CHOP** to be a ramp, and we're driving the phase of our ramp with time. 
