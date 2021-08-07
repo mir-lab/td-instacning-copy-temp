@@ -149,6 +149,23 @@ layout: table_wrappers
             {% endfor %}
           </ul>
         {% endif %}
+        
+        <hr>
+        <button class="btn js-toggle-dark-mode">Dark Mode</button>
+
+        <script>
+        const toggleColorMode = document.querySelector('.js-toggle-dark-mode');
+        
+        jtd.addEvent(toggleColorMode, 'click', function(){
+          if (jtd.getTheme() === 'dark') {
+            jtd.setTheme('light');
+            toggleColorMode.textContent = 'Light Mode';
+          } else {
+            jtd.setTheme('dark');
+            toggleColorMode.textContent = 'Dark Mode';
+          }
+        });
+        </script>
 
         {% capture footer_custom %}
           {%- include footer_custom.html -%}
